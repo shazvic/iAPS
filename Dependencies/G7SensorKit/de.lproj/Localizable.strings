@@ -55,7 +55,7 @@
 "Name" = "Name";
 
 /* title for g7 settings connection status when scanning */
-"Scanning" = "Scanning";
+"Scanning" = "Scannt";
 
 /* title for g7 settings connection status when connected */
 "Connected" = "Verbunden";
@@ -70,7 +70,7 @@
 "Configuration" = "Konfiguration";
 
 /* title for g7 config settings to upload readings */
-"Upload Readings" = "Upload Readings";
+"Upload Readings" = "BZ hochladen";
 
 /* Button */
 "Scan for new sensor" = "Nach neuen Sensoren suchen";
@@ -111,19 +111,19 @@
 "Grace period remaining" = "Toleranzzeit Ende";
 
 /* G7 Status highlight text for searching for sensor */
-"Searching for\nSensor" = "Searching for\nSensor";
+"Searching for\nSensor" = "Suche nach\nSensor";
 
 /* G7 Status highlight text for sensor expired */
-"Sensor\nExpired" = "Sensor\nExpired";
+"Sensor\nExpired" = "Sensor\nabgelaufen";
 
 /* G7 Status highlight text for signal loss */
-"Sensor\nFailed" = "Sensor\nFailed";
+"Sensor\nFailed" = "Sensor\nfehlgeschlagen";
 
 /* G7 Status highlight text for signal loss */
-"Signal\nLoss" = "Signal\nLoss";
+"Signal\nLoss" = "Signalverlust";
 
 /*G7 Status highlight text for sensor error */
-"Sensor\nIssue" = "Sensor\nIssue";
+"Sensor\nIssue" = "Sensor\nFehler";
 
 /* G7 Status highlight text for sensor warmup */
-"Sensor\nWarmup" = "Sensor\nWarmup";
+"Sensor\nWarmup" = "Sensor\nAufwärmen";
