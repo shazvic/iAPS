@@ -1365,7 +1365,7 @@ Enact a temp Basal or a temp target */
 
 "Heartbeat" = "Heartbeat";
 
-"CGM address :" = "CGM address :";
+"CGM address :" = "CGM adresi :";
 
 "CGM is not used as heartbeat." = "CGM is not used as heartbeat.";
 
