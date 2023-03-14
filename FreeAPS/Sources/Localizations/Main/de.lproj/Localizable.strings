@@ -1087,25 +1087,25 @@ Enact a temp Basal or a temp target */
 "Protein / Fat" = "Eiweiß / Fett";
 
 /* */
-"Meal Presets" = "Meal Presets";
+"Meal Presets" = "Speise-Voreinstellungen";
 
 /* */
-"Empty" = "Empty";
+"Empty" = "Leeren";
 
 /* */
-"Delete Selected Preset" = "Delete Selected Preset";
+"Delete Selected Preset" = "Voreinstellung löschen";
 
 /* */
-"Enter Meal Preset Name" = "Enter Meal Preset Name";
+"Enter Meal Preset Name" = "Geben Sie einen Namen für die Speise-Voreinstellung ein";
 
 /* */
-"Name Of Dish" = "Name Of Dish";
+"Name Of Dish" = "Name der Speise";
 
 /* Save Carbs and continue to bolus recommendation */
-"Save and continue" = "Save and continue";
+"Save and continue" = "Speichern und fortfahren";
 
 /* */
-"Save as Preset" = "Save as Preset";
+"Save as Preset" = "Als Voreinstellung speichern";
 
 /* -------------------------------------------------------------------------------------------
   DASH strings
@@ -1279,7 +1279,7 @@ Enact a temp Basal or a temp target */
 "Median" = "Median";
 
 /* CGM readings in statPanel */
-"Readings" = "Readings";
+"Readings" = "Messungen";
 
 /* Normal BG (within TIR) */
 "Normal" = "im Zielbereich";
@@ -1327,7 +1327,7 @@ Enact a temp Basal or a temp target */
 "Update every number of minutes:" = "Update der Statistik (in Minuten)";
 
 /* Description for update interval for statistics */
-"Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout." = "Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout.";
+"Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout." = "Standard ist 20 Minuten. Wie oft die Statistics.json aktualisiert und gespeichert wird und das letzte Array hochgeladen zu Nightscout, wenn aktiviert.";
 
 /* Duration displayed in statPanel */
 "Past 24 Hours " = "Letzten 24 Stunden";
@@ -1357,7 +1357,7 @@ Enact a temp Basal or a temp target */
 "Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "Ändern Sie den HbA1c in der Statistik (% <—> mmol/mol). Die Anzeige in der Statistik wird mit dem nächsten statistics.json Update aktualisiert.";
 
 /* HbA1c for all glucose storage days */
-"all" = "all";
+"all" = "alles";
 
 /* --------------------------------------------------------  Dexcom G7 --------------------------------------*/
 
@@ -1365,7 +1365,7 @@ Enact a temp Basal or a temp target */
 
 "Heartbeat" = "Herzschlag";
 
-"CGM address :" = "CGM address :";
+"CGM address :" = "CGM-Adresse:";
 
 "CGM is not used as heartbeat." = "CGM wird nicht als Herzschlag verwendet.";
 
@@ -1587,7 +1587,7 @@ Enact a temp Basal or a temp target */
 "Bolus Increment" = "Bolus-Erhöhung";
 
 /* "Bolus Increment" */
-"Smallest enacted SMB amount. Minimum amount for Omnipod pumps is 0.05 U, whereas for Medtronic pumps it differs for various models, from 0.025 U to 0.10 U. Please check the minimum bolus amount which can be delivered by your pump. The default value is 0.1." = "Smallest enacted SMB amount. Minimum amount for Omnipod pumps is 0.05 U, whereas for Medtronic pumps it differs for various models, from 0.025 U to 0.10 U. Please check the minimum bolus amount which can be delivered by your pump. The default value is 0.1.";
+"Smallest enacted SMB amount. Minimum amount for Omnipod pumps is 0.05 U, whereas for Medtronic pumps it differs for various models, from 0.025 U to 0.10 U. Please check the minimum bolus amount which can be delivered by your pump. The default value is 0.1." = "Kleinste SMB-Menge, Mindestmenge für Omnipod-Pumpen beträgt 0,05 U, für Medtronic-Pumpen hingegen unterscheidet er sich von 0. 25 U bis 0.10 U. Bitte überprüfen Sie den Mindest-Bolusbetrag, der von Ihrer Pumpe geliefert werden kann. Der Standardwert ist 0.1.";
 
 /* Headline "Insulin Peak Time" */
 "Insulin Peak Time" = "Insulin Wirkhöhepunkt";
@@ -1640,7 +1640,7 @@ Enact a temp Basal or a temp target */
 "Adjust Dynamic ISF constant" = "Dynamic ISF-Konstante anpassen";
 
 /* Adjust Dynamic ISF constant */
-"Adjust Dynamic ratios by a constant. Default is 0.5. The higher the value, the larger the correction of your ISF will be for a high or a low BG. Maximum correction is determined by the Autosens min/max settings. For Sigmoid function an adjustment factor of 0.4 - 0.5 is recommended to begin with. For the logaritmic formula there is less consensus, but starting with 0.5 - 0.8 is more appropiate for most users" = "Adjust Dynamic ratios by a constant. Default is 0.5. The higher the value, the larger the correction of your ISF will be for a high or a low BG. Maximum correction is determined by the Autosens min/max settings. For Sigmoid function an adjustment factor of 0.4 - 0.5 is recommended to begin with. For the logaritmic formula threre is less consensus, but starting with 0.5 - 0.8 is more appropiate for most users";
+"Adjust Dynamic ratios by a constant. Default is 0.5. The higher the value, the larger the correction of your ISF will be for a high or a low BG. Maximum correction is determined by the Autosens min/max settings. For Sigmoid function an adjustment factor of 0.4 - 0.5 is recommended to begin with. For the logaritmic formula there is less consensus, but starting with 0.5 - 0.8 is more appropiate for most users" = "Dynamische Verhältnisse durch ein Konstante anpassen. Standard ist 0.5. Je höher der Wert, desto größer ist die Korrektur Ihrer ISF bei einem hohen oder einem niedrigen BG. Maximale Korrektur wird von den Autosens min/max Einstellungen bestimmt. Für die Sigmoid-Funktion wird ein Adjustment Factor von 0.4 - 0.5 empfohlen. Für die logaritmische Formel herrscht weniger Konsens, aber beginnend mit 0.5 - 0.8 ist für die meisten Benutzer passender";
 
 
 /* Headline "Use Sigmoid Function" */
