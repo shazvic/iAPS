@@ -1367,14 +1367,14 @@ Enact a temp Basal or a temp target */
 
 "CGM address :" = "CGM address :";
 
-"CGM is not used as heartbeat." = "CGM is not used as heartbeat.";
+"CGM is not used as heartbeat." = "CGM wird nicht als Herzschlag verwendet.";
 
 "Are you sure you want to delete this CGM?" = "Möchten Sie das CGM wirklich löschen?";
 
 /* New Experimental feature */
-"Experimental" = "Experimental";
+"Experimental" = "Experimentell";
 /* Smoothing of CGM readings */
-"Smooth Glucose Value" = "Smooth Glucose Value";
+"Smooth Glucose Value" = "Glätten der Glukosewerte";
 
 /* -----------------------------------------------------------------------------------------------------------
 
