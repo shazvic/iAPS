@@ -1057,7 +1057,7 @@ Enact a temp Basal or a temp target */
 "Delay In Minutes" = "Dakika Olarak Gecikme";
 
 /* Duration */
-"Maximum Duration In Hours" = "Maximum Duration In Hours";
+"Maximum Duration In Hours" = "Saat Cinsinden Maksimum Süre";
 
 /* Interval */
 "Interval In Minutes" = "Dakika cinsinden Aralık";
@@ -1078,10 +1078,10 @@ Enact a temp Basal or a temp target */
 "Protein" = "Protein";
 
 /* Setting */
-"Fat And Protein Conversion" = "Fat And Protein Conversion";
+"Fat And Protein Conversion" = "Yağ ve Protein Hesabı";
 
 /* Alert text */
-"Delete carb equivalents?" = "Delete carb equivalents?";
+"Delete carb equivalents?" = "Karbonhidrat eşdeğerleri silinsin mi?";
 
 /* Section in settings */
 "Protein / Fat" = "Protein / Yağ";
