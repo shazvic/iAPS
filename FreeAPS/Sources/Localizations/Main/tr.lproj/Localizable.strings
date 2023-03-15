@@ -44,10 +44,10 @@
 "Agree and continue" = "Kabul et ve Devam et";
 
 /* Headline in enacted pop up (at: at what time) */
-"Enacted at" = "Enacted at";
+"Enacted at" = "Yürütüldüğü saat";
 
 /* Headline in suggested pop up (at: at what time) */
-"Suggested at" = "Suggested at";
+"Suggested at" = "Önerilen saatte";
 
 /* Headline in enacted pop up (at: at what time) */
 "Error at" = "Error at";
@@ -960,7 +960,7 @@ Enact a temp Basal or a temp target */
 "NS Upload Profile" = "NS Yükleme Profili";
 
 /* Debug option view NS Uploaded Profile */
-"NS Uploaded Profile" = "NS Uploaded Profile";
+"NS Uploaded Profile" = "NS Yüklenen Profil";
 
 /* Debug option view Autosense */
 "Autosense" = "OtoDuyarlılık";
@@ -984,25 +984,25 @@ Enact a temp Basal or a temp target */
 "Profile" = "Profil";
 
 /* Debug option view Enacted */
-"Enacted" = "Enacted";
+"Enacted" = "Yürütüldü";
 
 /* Debug option view Announcements (from NS) */
 "Announcements" = "Duyurular";
 
 /* Debug option view Enacted announcements announcements (from NS) */
-"Enacted announcements" = "Enacted announcements";
+"Enacted announcements" = "Yürürlüğe giren duyurular";
 
 /* Debug option view Autotune */
 "Autotune" = "Otoayar";
 
 /* Debug option view Target presets */
-"Target presets" = "Target presets";
+"Target presets" = "Hedef ön ayarlar";
 
 /* Debug option view */
-"Loop Cycles" = "Loop Cycles";
+"Loop Cycles" = "Döngü çevrimleri";
 
 /* Debug option view Glucose Data used for statistics */
-"Glucose Data used for statistics" = "Glucose Data used for statistics";
+"Glucose Data used for statistics" = "İstatistikler için kullanılan Glikoz Verileri";
 
 /* --------------- HealthKit intergration --------------------*/
 /* */
@@ -1045,22 +1045,22 @@ Enact a temp Basal or a temp target */
 /* -------------------------------------------- FPU Strings ------------------------------------------------------*/
 /* Enable FPU */
 
-"Enable" = "Enable";
+"Enable" = "Etkinleştir";
 
 /* Header */
-"Convert Fat and Protein" = "Convert Fat and Protein";
+"Convert Fat and Protein" = "Yağ ve Protein hesabı";
 
 /* Header */
-"Conversion settings" = "Conversion settings";
+"Conversion settings" = "Dönüşüm ayarları";
 
 /* Delay */
-"Delay In Minutes" = "Delay In Minutes";
+"Delay In Minutes" = "Dakika Olarak Gecikme";
 
 /* Duration */
 "Maximum Duration In Hours" = "Maximum Duration In Hours";
 
 /* Interval */
-"Interval In Minutes" = "Interval In Minutes";
+"Interval In Minutes" = "Dakika cinsinden Aralık";
 
 /* Override */
 "Override With A Factor Of " = "Override With A Factor Of ";
@@ -1093,19 +1093,19 @@ Enact a temp Basal or a temp target */
 "Empty" = "Boş";
 
 /* */
-"Delete Selected Preset" = "Delete Selected Preset";
+"Delete Selected Preset" = "Seçilen Hazır Ayarı Sil";
 
 /* */
-"Enter Meal Preset Name" = "Enter Meal Preset Name";
+"Enter Meal Preset Name" = "Öğün Ön Ayar Adını Girin";
 
 /* */
-"Name Of Dish" = "Name Of Dish";
+"Name Of Dish" = "Yemek Adı";
 
 /* Save Carbs and continue to bolus recommendation */
-"Save and continue" = "Save and continue";
+"Save and continue" = "Kaydet ve devam et";
 
 /* */
-"Save as Preset" = "Save as Preset";
+"Save as Preset" = "Ön Ayar Olarak Kaydet";
 
 /* -------------------------------------------------------------------------------------------
   DASH strings
@@ -1318,13 +1318,13 @@ Enact a temp Basal or a temp target */
 "Duration" = "Süre";
 
 /* "Display SD */
-"Display SD instead of CV" = "Display SD instead of CV";
+"Display SD instead of CV" = "CV yerine SD'yi görüntüle";
 
 /* Description for display SD */
 "Display Standard Deviation (SD) instead of Coefficient of Variation (CV) in statPanel" = "Display Standard Deviation (SD) instead of Coefficient of Variation (CV) in statPanel";
 
 /* How often to update the statistics */
-"Update every number of minutes:" = "Update every number of minutes:";
+"Update every number of minutes:" = "Dakikada bir güncelleme:";
 
 /* Description for update interval for statistics */
 "Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout." = "Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout.";
@@ -1354,7 +1354,7 @@ Enact a temp Basal or a temp target */
 "Override HbA1c unit" = "HbA1c birimini geçersiz kıl";
 
 /* Description for Override HbA1c unit */
-"Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "StatPanlel'de varsayılan HbA1c birimini değiştirin. StatPanel'deki birim bir sonraki istatistik.json güncellemesiyle güncellenecektir";
+"Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "İstatikPaneli'de varsayılan HbA1c birimini değiştirin. İstatikPaneli'deki birim bir sonraki istatistik.json güncellemesiyle güncellenecektir";
 
 /* HbA1c for all glucose storage days */
 "all" = "tümü";
@@ -1367,9 +1367,9 @@ Enact a temp Basal or a temp target */
 
 "CGM address :" = "CGM adresi :";
 
-"CGM is not used as heartbeat." = "CGM is not used as heartbeat.";
+"CGM is not used as heartbeat." = "CGM kalp atışı olarak kullanılmaz.";
 
-"Are you sure you want to delete this CGM?" = "Are you sure you want to delete this CGM?";
+"Are you sure you want to delete this CGM?" = "Bu CGM'i silmek istediğinden emin misin?";
 
 /* New Experimental feature */
 "Experimental" = "Deneysel";
@@ -1389,19 +1389,19 @@ Enact a temp Basal or a temp target */
 "This feature, enabled by default, resets the autosens ratio to neutral when you rewind your pump, on the assumption that this corresponds to a probable site change. Autosens will begin learning sensitivity anew from the time of the rewind, which may take up to 6 hours. If you usually rewind your pump independently of site changes, you may want to consider disabling this feature." = "Varsayılan olarak etkinleştirilen bu özellik, pompanızı geri sardığınızda, bunun olası bir set değişikliğine karşılık geldiği varsayımıyla otoduyarlılık oranını nötr olarak sıfırlar. Otoduyarlılık, 6 saate kadar sürebilen geri sarma zamanından itibaren hassasiyeti yeniden öğrenmeye başlayacaktır. Pompanızı genellikle set değişikliklerinden bağımsız olarak geri sarıyorsanız, bu özelliği devre dışı bırakmayı düşünebilirsiniz.";
 
 /* Headline "High Temptarget Raises Sensitivity" */
-"High Temptarget Raises Sensitivity" = "High Temptarget Raises Sensitivity";
+"High Temptarget Raises Sensitivity" = "Yüksek Geçicihedef, Duyarlılığı Artırır";
 
 /* ”High Temptarget Raises Sensitivity" */
 "Defaults to false. When set to true, raises sensitivity (lower sensitivity ratio) for temp targets set to >= 111. Synonym for exercise_mode. The higher your temp target above 110 will result in more sensitive (lower) ratios, e.g., temp target of 120 results in sensitivity ratio of 0.75, while 140 results in 0.6 (with default halfBasalTarget of 160)." = "Varsayılan olarak kapalı olup. Açık olarak ayarlandığında, >= 111 olarak ayarlanan geçici hedefler için duyarlılığı artırır (düşük duyarlılık oranı). Egzersiz_modu ile eşanlamlı. Geçici hedefiniz 110'un üzerinde ne kadar yüksek olursa, daha hassas (düşük) oranlar elde edilir, örneğin 120'lik geçici hedef 0,75 hassasiyet oranı ile sonuçlanırken 140 sonuç 0,6 ile sonuçlanır (varsayılan ile HalfBasalTarget 160).";
 
 /* Headline ”Low Temptarget Lowers Sensitivity" */
-"Low Temptarget Lowers Sensitivity" = "Low Temptarget Lowers Sensitivity";
+"Low Temptarget Lowers Sensitivity" = "Düşük Geçicihedef, Duyarlılığı Düşürür";
 
 /* ”Low Temptarget Lowers Sensitivity" */
 "Defaults to false. When set to true, can lower sensitivity (higher sensitivity ratio) for temptargets <= 99. The lower your temp target below 100 will result in less sensitive (higher) ratios, e.g., temp target of 95 results in sensitivity ratio of 1.09, while 85 results in 1.33 (with default halfBasalTarget of 160)." = "Varsayılan olarak kapalı olup. Açık olarak ayarlandığında, <= 99 temptarget'lar için hassasiyeti (daha yüksek hassasiyet oranı) düşürebilir. Geçici hedefiniz 100'ün altına ne kadar düşükse, daha az hassas (daha yüksek) oranlar elde edilir, örneğin, 95'lik geçici hedef 1,09 hassasiyet oranıyla sonuçlanırken 85, 1,33 ile sonuçlanır (varsayılan HalfBasalTarget ile 160).";
 
 /* Headline ”Sensitivity Raises Target" */
-"Sensitivity Raises Target" = "Sensitivity Raises Target";
+"Sensitivity Raises Target" = "Duyarlılık Hedefi Yükseltir";
 
 /* ”Sensitivity Raises Target" */
 "When true, raises BG target when autosens detects sensitivity" = "Etkinleştirildiğinde, otoduyarlılık duyarlılık algıladığında KŞ hedefini yükseltir";
@@ -1572,7 +1572,7 @@ Enact a temp Basal or a temp target */
 "Defaults to start at 30. This is the maximum minutes of basal that can be delivered as a single SMB with uncovered COB. This gives the ability to make SMB more aggressive if you choose. It is recommended that the value is set to start at 30, in line with the default, and if you choose to increase this value, do so in no more than 15 minute increments, keeping a close eye on the effects of the changes. It is not recommended to set this value higher than 90 mins, as this may affect the ability for the algorithm to safely zero temp. It is also recommended that pushover is used when setting the value to be greater than default, so that alerts are generated for any predicted lows or highs." = "Varsayılan değer 30'dan başlar. Bu, AKRB'ı tek bir SMB olarak teslim edilebilecek maksimum bazal dakikadır. Bu isterseniz SMB'leri daha agresif hale getirme yeteneği verir. Değerin varsayılana uygun olarak 30'da başlayacak şekilde ayarlanması ve bu değeri artırmayı seçerseniz, değişikliklerin etkilerini yakından takip ederek bunu 15 dakikalık artışlarla yapmanız önerilir. Algoritmanın güvenli bir şekilde geçici bazal'ı sıfırlayabilme yeteneğini etkileyebileceğinden, bu değeri 90 dakikadan daha yükseğe ayarlamanız önerilmez. Ayrıca, değeri varsayılandan daha büyük olarak ayarlarken bildirim özelliğinin kullanılması önerilir, böylece tahmin edilen herhangi bir düşük veya yüksek seviye için uyarılar oluşturulur.";
 
 /* Headline "Max UAM SMB Basal Minutes" */
-"Max UAM SMB Basal Minutes" = "Max UAM SMB Basal Minutes";
+"Max UAM SMB Basal Minutes" = "Maks UAM SMB Bazal Dakikaları";
 
 /* "Max UAM SMB Basal Minutes" */
 "Defaults to start at 30. This is the maximum minutes of basal that can be delivered by UAM as a single SMB when IOB exceeds COB. This gives the ability to make UAM more or less aggressive if you choose. It is recommended that the value is set to start at 30, in line with the default, and if you choose to increase this value, do so in no more than 15 minute increments, keeping a close eye on the effects of the changes. Reducing the value will cause UAM to dose less insulin for each SMB. It is not recommended to set this value higher than 60 mins, as this may affect the ability for the algorithm to safely zero temp. It is also recommended that pushover is used when setting the value to be greater than default, so that alerts are generated for any predicted lows or highs." = "Varsayılan değer 30'dan başlar. Bu AİNS AKRB'yi aştığında UAM tarafından tek bir SMB olarak teslim edilebilecek maksimum bazal dakikadır. Bu isterseniz UAM'yi daha fazla veya daha az agresif hale getirme yeteneği verir. Değerin varsayılana uygun olarak 30'da başlayacak şekilde ayarlanması ve bu değeri artırmayı seçerseniz, değişikliklerin etkilerini yakından takip ederek bunu 15 dakikalık artışlarla yapmanız önerilir. Değerin düşürülmesi, UAM'nin her SMB için daha az insülin dozlamasına neden olacaktır. Algoritmanın güvenli bir şekilde geçici sıfırlayabilme yeteneğini etkileyebileceğinden, bu değeri 60 dakikadan daha yükseğe ayarlamanız önerilmez. Ayrıca değeri varsayılandan daha büyük olarak ayarlarken pushover'ın kullanılması önerilir, böylece tahmin edilen herhangi bir düşük veya yüksek seviye için uyarılar oluşturulur.";
@@ -1657,7 +1657,7 @@ Enact a temp Basal or a temp target */
 "The default threshold in FAX depends on your current minimum BG target, as follows:\n\nIf your minimum BG target = 90 mg/dl -> threshold = 65 mg/dl,\n\nif minimum BG target = 100 mg/dl -> threshold = 70 mg/dl,\n\nminimum BG target = 110 mg/dl -> threshold = 75 mg/dl,\n\nand if minimum BG target = 130 mg/dl  -> threshold = 85 mg/dl.\n\nThis setting allows you to change the default to a higher threshold for looping with dynISF. Valid values are 65 mg/dl<= Threshold Setting <= 120 mg/dl." = "The default threshold in FAX depends on your current minimum BG target, as follows:\n\nIf your minimum BG target = 90 mg/dl -> threshold = 65 mg/dl,\n\nif minimum BG target = 100 mg/dl -> threshold = 70 mg/dl,\n\nminimum BG target = 110 mg/dl -> threshold = 75 mg/dl,\n\nand if minimum BG target = 130 mg/dl  -> threshold = 85 mg/dl.\n\nThis setting allows you to change the default to a higher threshold for looping with dynISF. Valid values are 65 mg/dl<= Threshold Setting <= 120 mg/dl.";
 
 /* Headline "Weighted Average of TDD. Weight of past 24 hours:" */
-"Weighted Average of TDD. Weight of past 24 hours:" = "Weighted Average of TDD. Weight of past 24 hours:";
+"Weighted Average of TDD. Weight of past 24 hours:" = "GTD'nin Ağırlıklı Ortalaması. Son 24 saatin ağırlığı:";
 
 /* Weight of past 24 hours of insulin */
 "Has to be > 0 and <= 1.\nDefault is 0.65 (65 %) * TDD. The rest will be from average of total data (up to 14 days) of all TDD calculations (35 %). To only use past 24 hours, set this to 1.\n\nTo avoid sudden fluctuations, for instance after a big meal, an average of the past 2 hours of TDD calculations is used instead of just the current TDD (past 24 hours at this moment)." = "Has to be > 0 and <= 1.\nDefault is 0.65 (65 %) * TDD. The rest will be from average of total data (up to 14 days) of all TDD calculations (35 %). To only use past 24 hours, set this to 1.\n\nTo avoid sudden fluctuations, for instance after a big meal, an average of the past 2 hours of TDD calculations is used instead of just the current TDD (past 24 hours at this moment).";
