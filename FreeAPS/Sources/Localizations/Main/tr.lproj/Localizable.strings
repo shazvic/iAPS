@@ -1351,19 +1351,19 @@ Enact a temp Basal or a temp target */
 "Displays Loop statistics in the statPanel in Home View" = "Displays Loop statistics in the statPanel in Home View";
 
 /* Display % */
-"Override HbA1c unit" = "Override HbA1c unit";
+"Override HbA1c unit" = "HbA1c birimini geçersiz kıl";
 
 /* Description for Override HbA1c unit */
-"Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update";
+"Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "StatPanlel'de varsayılan HbA1c birimini değiştirin. StatPanel'deki birim bir sonraki istatistik.json güncellemesiyle güncellenecektir";
 
 /* HbA1c for all glucose storage days */
-"all" = "all";
+"all" = "tümü";
 
 /* --------------------------------------------------------  Dexcom G7 --------------------------------------*/
 
-"Configuration CGM" = "Configuration CGM";
+"Configuration CGM" = "CGM Yapılandırması";
 
-"Heartbeat" = "Heartbeat";
+"Heartbeat" = "Kalp atışı";
 
 "CGM address :" = "CGM adresi :";
 
