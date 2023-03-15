@@ -1383,7 +1383,7 @@ Enact a temp Basal or a temp target */
 */
 /* Headline Rewind Resets Autosens */
 
-"Rewind Resets Autosens" = "Rewind Resets Autosens";
+"Rewind Resets Autosens" = "Geri Sarma Otoduyarlılığı Sıfırlar";
 
 /* ”Rewind Resets Autosens” */
 "This feature, enabled by default, resets the autosens ratio to neutral when you rewind your pump, on the assumption that this corresponds to a probable site change. Autosens will begin learning sensitivity anew from the time of the rewind, which may take up to 6 hours. If you usually rewind your pump independently of site changes, you may want to consider disabling this feature." = "Varsayılan olarak etkinleştirilen bu özellik, pompanızı geri sardığınızda, bunun olası bir set değişikliğine karşılık geldiği varsayımıyla otoduyarlılık oranını nötr olarak sıfırlar. Otoduyarlılık, 6 saate kadar sürebilen geri sarma zamanından itibaren hassasiyeti yeniden öğrenmeye başlayacaktır. Pompanızı genellikle set değişikliklerinden bağımsız olarak geri sarıyorsanız, bu özelliği devre dışı bırakmayı düşünebilirsiniz.";
@@ -1455,7 +1455,7 @@ Enact a temp Basal or a temp target */
 "This enables supermicrobolus (SMB) while carbs on board (COB) are positive." = "Bu aktif karbonhidrat (AKRB) pozitifken, süpermikrobolusu (SMB) sağlar.";
 
 /* Headline "Enable SMB With Temptarget” */
-"Enable SMB With Temptarget" = "Enable SMB With Temptarget";
+"Enable SMB With Temptarget" = "Geçicihedef ile SMB'yi Etkinleştirin";
 
 /* "Enable SMB With Temptarget” */
 "This enables supermicrobolus (SMB) with eating soon / low temp targets. With this feature enabled, any temporary target below 100mg/dL, such as a temp target of 99 (or 80, the typical eating soon target) will enable SMB." = "Bu yakında yemek / düşük geçici hedefler ile süpermikrobolus (SMB) sağlar. Bu özellik etkinleştirildiğinde geçici hedef 99 (veya 80, tipik yakında yeme hedefi) gibi herhangi bir geçici hedef 100mg/dL'nin altında SMB'yi etkinleştirecektir.";
@@ -1473,10 +1473,10 @@ Enact a temp Basal or a temp target */
 "Defaults to false. When true, enables supermicrobolus (SMB) for 6h after carbs, even with 0 carbs on board (COB)." = "Varsayılan olarak geçersizdir. Geçerli olduğunda aktif karbonhidrat (AKRB) 0 olsa bile karbonhidratlardan sonra 6 saat boyunca süpermikrobolosu (SMB) etkinleştirir.";
 
 /* Enable "Allow SMB With High Temptarget" */
-"Allow SMB With High Temptarget" = "Allow SMB With High Temptarget";
+"Allow SMB With High Temptarget" = "Yüksek Geçicihedef ile SMB'ye İzin Ver";
 
 /* Headline "Allow SMB With High Temptarget" */
-"Allow SMB With High Temptarget" = "Allow SMB With High Temptarget";
+"Allow SMB With High Temptarget" = "Yüksek Geçicihedef ile SMB'ye İzin Ver";
 
 /* "Allow SMB With High Temptarget" */
 "Defaults to false. When true, allows supermicrobolus (if otherwise enabled) even with high temp targets (> 100 mg/dl)." = "Varsayılan olarak geçersizdir. Geçerli olduğunda, yüksek geçici hedeflerinde bile süpermikrobolusa (aksi takdirde etkinleştirildiyse) izin verir.";
@@ -1581,7 +1581,7 @@ Enact a temp Basal or a temp target */
 "SMB Interval" = "SMB Aralığı";
 
 /* "SMB Interval" */
-"Minimum duration in minutes for new SMB since last SMB or manual bolus" = "Minimum duration in minutes for new SMB since last SMB or manual bolus";
+"Minimum duration in minutes for new SMB since last SMB or manual bolus" = "Son SMB veya manuel bolustan bu yana yeni SMB için dakika cinsinden minimum süre";
 
 /* Headline "Bolus Increment" */
 "Bolus Increment" = "Bolus Artırımı";
