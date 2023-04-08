@@ -111,7 +111,7 @@
 "Get Statistics…" = "正在获取数据…";
 
 /* Instructions on selecting an insulin data source */
-"Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." = "可以通过解释事件历史记录或比较随时间推移的储存容量来确定胰岛素输注总量。阅读事件历史记录可以获得更精确的胰岛素输注量并将最新的数据上传到Nightscout，但该方式会造成更快的电池消耗以及可能造成Rileylink通信失败概率增大。如果选中的方式无法正常工作，系统将自动尝试运行另一个方案。";
+"Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." = "可以通过事件历史记录或比较剩余药量来确定胰岛素输注总量。事件历史记录可以获得更精确的胰岛素输注量并将最新的数据上传到Nightscout，但该方式会造成更快的电池消耗以及可能造成Rileylink通信失败概率增大。如果选中的方式无法正常工作，系统将自动尝试运行另一个方案。";
 
 /* The title of the cell describing an awake radio */
 "Last Awake" = "最近唤醒";
@@ -169,7 +169,7 @@
 "Region" = "地区";
 
 /* Button title to retry sentry setup */
-"Retry" = "Retry";
+"Retry" = "重试";
 
 /* The title of the command to fetch RileyLink statistics */
 "RileyLink Statistics" = "RileyLink数据";
@@ -206,4 +206,4 @@
 "Unknown" = "未知";
 
 /* The title of the cell showing uptime */
-"Uptime" = "Uptime";
+"Uptime" = "运行时间";
