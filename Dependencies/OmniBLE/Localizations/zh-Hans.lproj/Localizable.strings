@@ -602,10 +602,10 @@
 "No confidence reminders are used." = "没有二次确认提醒正在被使用";
 
 /* Description for BeepPreference.manualCommands */
-"Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When Loop automatically adjusts delivery, no confidence reminders are used." = "二次确认提醒将会为您主动发起的命令发出声音，如输注大剂量、 取消大剂量、 暂停、 恢复、 保存通知提醒等。 当一个loop自动调整时，不会产生提醒。";
+"Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When Loop automatically adjusts delivery, no confidence reminders are used." = "二次确认提醒将会为您主动发起的命令发出声音，如输注大剂量、 取消大剂量、 暂停、 恢复、 保存通知提醒等。 当闭环自动调整时，不会产生提醒。";
 
 /* Description for BeepPreference.extended */
-"Confidence reminders will sound when Loop automatically adjusts delivery as well as for commands you initiate." = "二次确认提醒会在一个loop完成自动调整后以及手动输入命令后发出声音";
+"Confidence reminders will sound when Loop automatically adjusts delivery as well as for commands you initiate." = "二次确认提醒会在闭环完成自动调整后以及手动输入命令后发出声音";
 
 /* Label text for temporary basal rate summary */
 "Rate" = "输注率";
@@ -617,7 +617,7 @@
 "%1$@ for %2$@" = "%1$@ 持续 %2$@";
 
 /* Description text on manual temp basal action sheet */
-"Loop will not automatically adjust your insulin delivery until the temporary basal rate finishes or is canceled." = "Loop不会自动调整您的胰岛素输注，直到临时基础率结束或被取消。";
+"Loop will not automatically adjust your insulin delivery until the temporary basal rate finishes or is canceled." = "闭环不会自动调整您的胰岛素输注，直到临时基础率结束或被取消。";
 /* Button text for setting manual temporary basal rate*/
 "Set Temporary Basal" = "设置临时基础率";
 
