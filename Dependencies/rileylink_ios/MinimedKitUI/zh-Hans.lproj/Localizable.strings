@@ -102,7 +102,7 @@
 "Firmware" = "固件";
 
 /* The title of the cell showing the pump firmware version */
-"Firmware Version" = "Firmware Version";
+"Firmware Version" = "固件版本";
 
 /* The title of the command to get pump model */
 "Get Pump Model" = "获取胰岛素泵型号";
@@ -132,7 +132,7 @@
 "On Idle" = "空闲";
 
 /* Pump find device instruction */
-"On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device" = "On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device";
+"On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device" = "在您的泵上，前往查找设备屏幕并选择\"查找设备\"。\n\n主菜单 >\n实用程序 >\n连接设备 >\n其他设备 >\n在 >\n查找设备";
 
 /* The title text for the preferred insulin data source config */
 "Preferred Data Source" = "首选数据源";
@@ -166,7 +166,7 @@
 "Reading pump status…" = "正在读取胰岛素泵状态…";
 
 /* The title of the cell showing the pump region */
-"Region" = "Region";
+"Region" = "地区";
 
 /* Button title to retry sentry setup */
 "Retry" = "Retry";
