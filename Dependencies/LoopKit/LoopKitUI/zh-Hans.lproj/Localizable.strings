@@ -36,10 +36,10 @@
 "Delete Account" = "删除账户";
 
 /* Describes a percentage decrease in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "基础率,大剂量及追加剂量将以%@%%减少";
+"Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Basal, bolus, and correction insulin dose amounts are decreased by %@%%.";
 
 /* Describes a percentage increase in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "基础率,大剂量及追加剂量将以%@%%增加";
+"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "Basal, bolus, and correction insulin dose amounts are increased by %@%%.";
 
 /* Describes a lack of change in overall insulin needs */
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "基础率,大剂量及追加剂量将不受该设置影响";
