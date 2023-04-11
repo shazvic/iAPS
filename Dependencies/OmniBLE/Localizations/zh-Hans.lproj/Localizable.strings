@@ -63,7 +63,7 @@
 "Ok" = "Ok";
 
 /* Label for pod life state when pod not fully activated */
-"Unfinished Activation" = "未完成的激活";
+"Unfinished Activation" = "未完成启用";
 
 /* Label for pod life state when time remaining */
 "Pod expires in" = "Pod 将过期于 ";
@@ -72,7 +72,7 @@
 "Pod Expires" = "Pod 过期";
 
 /* */
-"Pod Activated" = "Pod 已激活";
+"Pod Activated" = "Pod 已启用";
 
 /* */
 "Notification Settings" = "通知设置";
@@ -336,7 +336,7 @@
 "Adjusting Pump Time..." = "正在调整泵时间...";
 
 /* The title of the command to change pump time zone */
-"Sync to Current Time" = "设置为当前时间";
+"Sync to Current Time" = "同步到当前时间";
 
 /* Label for PumpManager deletion button */
 "Switch to other insulin delivery device" = "切换至其他胰岛素输注设备";
@@ -649,7 +649,7 @@
 "No\nDelivery" = "没有\n在输注";
 
 /* description label for active time pod details row */
-"Active Time" = "Pod启动时间";
+"Active Time" = "启用时间";
 
 /* description label for total delivery pod details row */
 "Total Delivery" = "总输注量";
@@ -727,7 +727,7 @@
 "Resume Insulin Delivery" = "恢复胰岛素输注";
 
 /* Recovery suggestion when no pod is available */
-"Make sure your pod is nearby and try again." = "请确认 Pod 在手机旁并重试";
+"Make sure your pod is nearby and try again." = "请确认 Pod 与手机的距离并重试";
 
 /* Error message shown when the pod is not connected */
 "Pod not connected" = "Pod未连接";
