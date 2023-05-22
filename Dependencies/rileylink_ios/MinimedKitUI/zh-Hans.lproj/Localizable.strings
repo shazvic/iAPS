@@ -102,7 +102,7 @@
 "Firmware" = "固件";
 
 /* The title of the cell showing the pump firmware version */
-"Firmware Version" = "Firmware Version";
+"Firmware Version" = "固件版本";
 
 /* The title of the command to get pump model */
 "Get Pump Model" = "获取胰岛素泵型号";
@@ -111,7 +111,7 @@
 "Get Statistics…" = "正在获取数据…";
 
 /* Instructions on selecting an insulin data source */
-"Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." = "可以通过解释事件历史记录或比较随时间推移的储存容量来确定胰岛素输注总量。阅读事件历史记录可以获得更精确的胰岛素输注量并将最新的数据上传到Nightscout，但该方式会造成更快的电池消耗以及可能造成Rileylink通信失败概率增大。如果选中的方式无法正常工作，系统将自动尝试运行另一个方案。";
+"Insulin delivery can be determined from the pump by either interpreting the event history or comparing the reservoir volume over time. Reading event history allows for a more accurate status graph and uploading up-to-date treatment data to Nightscout, at the cost of faster pump battery drain and the possibility of a higher radio error rate compared to reading only reservoir volume. If the selected source cannot be used for any reason, the system will attempt to fall back to the other option." = "可以通过事件历史记录或比较剩余药量来确定胰岛素输注总量。事件历史记录可以获得更精确的胰岛素输注量并将最新的数据上传到Nightscout，但该方式会造成更快的电池消耗以及可能造成Rileylink通信失败概率增大。如果选中的方式无法正常工作，系统将自动尝试运行另一个方案。";
 
 /* The title of the cell describing an awake radio */
 "Last Awake" = "最近唤醒";
@@ -132,7 +132,7 @@
 "On Idle" = "空闲";
 
 /* Pump find device instruction */
-"On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device" = "On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device";
+"On your pump, go to the Find Device screen and select \"Find Device\".\n\nMain Menu >\nUtilities >\nConnect Devices >\nOther Devices >\nOn >\nFind Device" = "在您的泵上，前往查找设备屏幕并选择\"查找设备\"。\n\n主菜单 >\n实用程序 >\n连接设备 >\n其他设备 >\n在 >\n查找设备";
 
 /* The title text for the preferred insulin data source config */
 "Preferred Data Source" = "首选数据源";
@@ -166,10 +166,10 @@
 "Reading pump status…" = "正在读取胰岛素泵状态…";
 
 /* The title of the cell showing the pump region */
-"Region" = "Region";
+"Region" = "地区";
 
 /* Button title to retry sentry setup */
-"Retry" = "Retry";
+"Retry" = "重试";
 
 /* The title of the command to fetch RileyLink statistics */
 "RileyLink Statistics" = "RileyLink数据";
@@ -206,4 +206,4 @@
 "Unknown" = "未知";
 
 /* The title of the cell showing uptime */
-"Uptime" = "Uptime";
+"Uptime" = "运行时间";

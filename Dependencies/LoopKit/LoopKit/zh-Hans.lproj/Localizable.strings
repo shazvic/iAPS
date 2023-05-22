@@ -35,28 +35,28 @@
 "Falling fast" = "快速下降";
 
 /* Glucose trend down-down-down */
-"Falling very fast" = "非常快速下降";
+"Falling very fast" = "超快速下降";
 
 /* Glucose trend flat */
 "Flat" = "平稳";
 
 /* The short unit display string for grams per U */
-"g/U" = "克/U";
+"g/U" = "g/U";
 
 /* Generic pump error description */
 "Invalid Configuration" = "无效配置";
 
 /* Recovery instruction for a certain bolus failure */
-"It is safe to retry" = "重试";
+"It is safe to retry" = "可以安全地重试";
 
 /* The short unit display string for milligrams per deciliter per U */
-"mg/dL/U" = "毫克/分升/U";
+"mg/dL/U" = "mg/dL/U";
 
 /* The short unit display string for millimoles per liter */
 "mmol/L" = "mmol/L";
 
 /* The short unit display string for millimoles per liter per U */
-"mmol/L/U" = "毫摩尔/升/U";
+"mmol/L/U" = "mmol/L";
 
 /* Sensor state description for the non-valid state */
 "Needs Attention" = "请注意";
@@ -65,10 +65,10 @@
 "No values found" = "未发现数据";
 
 /* Sensor state description for the valid state */
-"OK" = "Ok";
+"OK" = "OK";
 
 /* The error recovery suggestion when Health sharing was denied */
-"Please re-enable sharing in Health" = "请先在Health Kit中允许Loop读写数据";
+"Please re-enable sharing in Health" = "请先在Health Kit中允许读写数据";
 
 /* Glucose trend up */
 "Rising" = "上升";
@@ -77,13 +77,13 @@
 "Rising fast" = "快速上升";
 
 /* Glucose trend up-up-up */
-"Rising very fast" = "非常快速上升";
+"Rising very fast" = "超快速上升";
 
 /* The short unit display string for international units of insulin */
 "U" = "U";
 
 /* The short unit display string for international units of insulin per hour */
-"U/hr" = "U/小时";
+"U/hr" = "U/hr";
 
 /* The long unit display string for a singular international unit of insulin */
 "Unit" = "单位";

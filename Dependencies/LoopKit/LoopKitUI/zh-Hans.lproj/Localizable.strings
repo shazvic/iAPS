@@ -6,7 +6,7 @@
 "%1$@ units remaining at %2$@" = "在%2$@还剩余%1$@";
 
 /* The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit) */
-"%1$@ – %2$@ %3$@" = "%1$@ – %2$@ %3$@";
+"%1$@ – %2$@ %3$@" = "%1$@ — %2$@ %3$@";
 
 /* The format for an insulin needs percentage. */
 "%@%% of normal insulin" = "%@%% 胰岛素";
@@ -36,10 +36,10 @@
 "Delete Account" = "删除账户";
 
 /* Describes a percentage decrease in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "基础率,大剂量及追加剂量将以%@%%减少";
+"Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Basal, bolus, and correction insulin dose amounts are decreased by %@%%.";
 
 /* Describes a percentage increase in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "基础率,大剂量及追加剂量将以%@%%增加";
+"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "Basal, bolus, and correction insulin dose amounts are increased by %@%%.";
 
 /* Describes a lack of change in overall insulin needs */
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "基础率,大剂量及追加剂量将不受该设置影响";
@@ -87,7 +87,7 @@
 "Continue" = "继续";
 
 /* The section footer of correction range schedule */
-"Correction range is the blood glucose range that you would like Loop to correct to." = "校正范围指Loop系统会主动调整胰岛素输注并将血糖保持在该范围内";
+"Correction range is the blood glucose range that you would like Loop to correct to." = "校正范围是：Iaps会主动调整胰岛素输注量并将血糖保持在该范围内";
 
 /* The text for a custom override */
 "Custom" = "自定义";
@@ -105,13 +105,13 @@
 "Duration" = "持续时间";
 
 /* The title for the override editing screen */
-"Edit Override" = "编辑新设置";
+"Edit Override" = "编辑覆盖";
 
 /* Footer text for editing an active override (1: preset name) */
 "Editing affects only the active override. The default settings of %@ will not be affected." = "编辑仅会影响正在使用的“覆盖”设置,默认设置%@不受影响";
 
 /* The text for the indefinite override duration setting */
-"Enable Indefinitely" = "一直使用";
+"Enable Indefinitely" = "无限期启用";
 
 /* The detail text describing an enabled setting */
 "Enabled" = "已启用";
@@ -126,7 +126,7 @@
 "Fast" = "快速";
 
 /* The description shown on the insulin sensitivity schedule interface. */
-"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "胰岛素敏感系数指每单位胰岛素可以造成的血糖变化.比较小的值意味着当血糖高于目标时需要更多的胰岛素,如果该值设置太小可能会造成严重低血糖,请谨慎设置该参数";
+"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "胰岛素敏感系数指每单位胰岛素可以造成的血糖变化。“较小”的值意味着当血糖高于目标时需要”更多“的胰岛素,如果该值设置太小可能会造成严重低血糖,请谨慎设置该参数";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "最大";
@@ -200,7 +200,7 @@
 "Start Time" = "启动时间";
 
 /* Title text for suspend resume button when temp basal starting */
-"Starting Temp Basal" = "启动临时寄出";
+"Starting Temp Basal" = "正在启动临时基础率";
 
 /* Title text for button to suspend insulin delivery */
 "Suspend Delivery" = "暂停输注";
